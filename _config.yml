@@ -1,0 +1,23 @@
+name: NewCreek
+favicon: null
+layout_spectrum: 0.806701319757849
+typography_spectrum: 0.000051819952204823494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7825767763424665
+  lightness: 0.9404349741525948
+  saturation: 0.31253612763248384
+  rhythmicContrast: 0.46415358502417803
+purpose: []
