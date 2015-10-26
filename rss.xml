@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[NewCreek]]></title>
         <description><![CDATA[NewCreek]]></description>
-        <link>https://thegrid.ai/newcreek/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 16:50:31 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/newcreek/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New post]]></title>
-            <description><![CDATA[<article><h1>New post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77891c8e-8510-4cf3-aa21-a0b47cb99a81.jpg"></article>]]></description>
-            <link>https://thegrid.ai/newcreek/new-post/index.html</link>
-            <guid isPermaLink="false">268f00b2-9a48-4e0b-982c-ab635b99a44d</guid>
-            <pubDate>Mon, 26 Oct 2015 16:48:28 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 26 Oct 2015 16:50:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/newcreek/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">816daa99-2d11-442c-988c-d8b6a7c567ad</guid>
             <pubDate>Mon, 26 Oct 2015 16:48:27 GMT</pubDate>
         </item>
